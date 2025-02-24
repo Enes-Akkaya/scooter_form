@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719571627580",
+    "project_id": "scooter-control-form",
+    "storage_bucket": "scooter-control-form.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719571627580:android:52690c8e6e9bce6d43dd39",
+        "android_client_info": {
+          "package_name": "com.example.scooter_form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSxfxvPE7U2GOeSBzMXLKL5BG-rQwHc-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
